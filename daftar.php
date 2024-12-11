@@ -67,6 +67,10 @@ if (isset($_GET['delete_error'])) {
         .btn-danger {
             background-color: red !important;
         }
+        .btn-primary {
+            background-color: #a7097a !important;
+            transition: all 0.3s ease;
+        }
     </style>
 </head>
 <body>
